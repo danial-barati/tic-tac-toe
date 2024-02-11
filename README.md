@@ -2,7 +2,7 @@
 
 ** a tic tac toe game by pure js **
 
-![view](https://github.com/danial-barati/signup_form/assets/104683176/62f56e1f-62c8-4625-9ab6-bb55694c7463)
+![view](https://github.com/danial-barati/tic-tac-toe/assets/104683176/3a242cff-787d-4659-90c1-7c6a653ddeb8)
 
 - 🔗 [demo](https://danial-barati.github.io/signup_form/)
 
