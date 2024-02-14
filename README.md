@@ -4,7 +4,7 @@
 
 ![view](https://github.com/danial-barati/tic-tac-toe/assets/104683176/3a242cff-787d-4659-90c1-7c6a653ddeb8)
 
-- 🔗 [demo]([https://danial-barati.github.io/signup_form/](https://danial-barati.github.io/tic-tac-toe/))
+- 🔗 [demo](https://danial-barati.github.io/signup_form/](https://danial-barati.github.io/tic-tac-toe/)
 
 - 👩🏻‍💻 Developed by danial barati
 
